@@ -1,0 +1,8 @@
+{
+  "name": "Mobet - Gaming Platform",
+  "short_name": "Mobet",
+  "description": "Gaming and betting platform",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
